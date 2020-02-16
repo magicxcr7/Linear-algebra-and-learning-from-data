@@ -1,2 +1,3 @@
-# linear-algebra-and-learning-from-data-practice-2019-winter
-computer assignment
+# Linear-algebra-and-learning-from-data
+This is coding assignment practice on 2019 winter
+
